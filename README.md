@@ -8,3 +8,5 @@ javascript: JSON.parse(Object.keys(localStorage).reduce(function(obj, str) { obj
 
 
 # k có đáng gì, chừng nào lấy đc token từ cái cookie của acc google, tự renew mỗi khi hết hạn mà k làm thủ công mới đáng
+
+làm mấy cái khác(chuyển nhóm...) tương tự
