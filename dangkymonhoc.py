@@ -1,11 +1,14 @@
 # https://yenthaptam.streamlit.app/
-#
+# https://github.com/tuoitho/dkmh_hcmute
 import time
+
 import requests
+
 mamon = 'ENGL130137_03'
 url = "https://dangkyapi.hcmute.edu.vn/api/Regist/RegistScheduleStudyUnit?TurnID=45&Action=REGIST&StudyProgramID=22110"
 token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwibmJmIjoxNjM0NjYwNjIwLCJleHAiOjE2MzQ2NjA2MjAsImlhdCI6MTYzNDY2MDYyMCwiaXNzIjoiQ2FwaXRhbCBTZXJ2aWNlIFNlcnZpY2VzIiwiYXVkIjoiQ2FwaXRhbCBTZXJ2aWNlIFNlc232323nZpY2VzIn0.1'
-headers = {    "authorization": "Bearer "+token,
+headers = {
+    "authorization": "Bearer "+token,
 }
 arr = ['ENGL130137_03', 'LLCT220514_03']
 while True:
