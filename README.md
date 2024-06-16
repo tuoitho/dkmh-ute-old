@@ -7,4 +7,4 @@ javascript: JSON.parse(Object.keys(localStorage).reduce(function(obj, str) { obj
 
 
 
-có đáng gì đâu b, chừng nào lấy đc token từ cái cookie của acc google mà k làm thủ công mới đáng
+có đáng gì đâu b, chừng nào lấy đc token từ cái cookie của acc google, tự renew mỗi khi hết hạn mà k làm thủ công mới đáng
