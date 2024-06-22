@@ -13,3 +13,6 @@ làm mấy cái khác(chuyển nhóm...) tương tự
 
 
 ![image](https://github.com/tuoitho/dkmh_hcmute/assets/135036590/7d7ae757-d202-4f4b-878b-82b184a519a9)
+
+
+https://github.com/tuoitho/Bai-Tap-Lap-Trinh-Python/assets/135036590/8612d184-683a-44ca-b9ef-d572a7037735
